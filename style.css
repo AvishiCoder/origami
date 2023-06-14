@@ -1,0 +1,13 @@
+ img {
+    width:368px;
+    height:276px;
+}
+
+body{
+    text-align:center;
+    background-color: rgb(14, 173, 241);
+}
+
+#origami1{
+    background-color: lightpink;
+}
